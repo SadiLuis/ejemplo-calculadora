@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+.calculadora{
+    width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+.calculadora input{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.keypad button{
+    width: 50px;
+    height: 30px;
+    margin-right: 5px;
+}
